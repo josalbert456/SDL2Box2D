@@ -1,0 +1,23 @@
+objects = AABBCallback.o BodyGenerator.o BoxMath.o Canvas.o \
+	Controller.o EdgeGenerator.o EventCalls.o EventHandler.o \
+	Initializer.o makefile.o MyContactListener.o RayCallback.o \
+	SensorContactCall.o Updater.o WorldUpdater.o
+
+AABBCallback.o : AABBCallback.h
+BodyGenerator.o : BodyGenerator.h
+BoxMath.o : BoxMath.h
+Canvas.o : Canvas.h
+Controller.o : Controller.h
+EdgeGenerator.o : EdgeGenerator.h
+EventCalls.o : EventCalls.h
+EventHandler.o : EventHandler.h
+Initializer.o : Initializer.h
+makefile.o : makefile.h
+MyContactListener.o : MyContactListener.h
+RayCallback.o : RayCallback.h
+SensorContactCall.o : SensorContactCall.h
+Updater.o : Updater.h
+WorldUpdater.o : WorldUpdater.h
+
+
+clean:
