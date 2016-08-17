@@ -12,6 +12,9 @@ public:
 	}
 	~Camera(){}
 	void setCamera();
+	void setCenter(b2Body *body){
+		cameraCenterBody = body;
+	}
 	void addBody(b2Body *body);
 	list<b2Body *> bodies;
 	b2Body *cameraCenterBody;

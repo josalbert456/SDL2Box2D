@@ -22,6 +22,8 @@ void MyContactListener::PreSolve(b2Contact *contact, const b2Manifold *oldManifo
 		b2Vec2 normalEnd = worldManifold.points[i] + 0.1 * worldManifold.normal;
 		canvas->drawScaledLine(normalStart, normalEnd);
 	}
+
+	
 }
 void MyContactListener::PostSolve(b2Contact *contact, const b2ContactImpulse *impulse){
 	std::cout << "PostSolve" << std::endl;
