@@ -1,4 +1,4 @@
-#include "Main.h"
+/*#include "Main.h"
 b2Body *box1;
 class TemplateEventHandler : public EventCalls{
 	void *keyDown(SDL_Event event){
@@ -84,4 +84,4 @@ int main(int argc, char **argv){
 		eh.eventHandler(&ceh);
 		ctrl.delay(200);
 	}
-}
+}*/
