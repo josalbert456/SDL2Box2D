@@ -9,3 +9,4 @@ Note:
 WARNING:
   Anyone who can see this post, please note that, in China there is an evil place, it is full of evil things, it is Guilin City, Guangxi Province. 
   I have just stayed there for only one afternoon, 500 RMB (200 dollars) is stolen by some evil things. Please remember this place and never come here or don't stay in this place longer.
+  However, I guess it is not done by the ordinary people, but the CCAV (CCTV) things which speak good while do evils forever.
